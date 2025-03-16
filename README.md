@@ -1,4 +1,4 @@
-<img width="1418" alt="image" src="https://github.com/user-attachments/assets/201e5755-0f75-4e87-84a5-13661ae7b7ae" />
+[README.md](https://github.com/user-attachments/files/19275364/README.md)<img width="1418" alt="image" src="https://github.com/user-attachments/assets/201e5755-0f75-4e87-84a5-13661ae7b7ae" />
 # IT Infrastructure Repository
 
 ## Overview
@@ -45,6 +45,96 @@ Active Directory is Microsoft’s on-premises identity management service that h
 ## Device Management
 ### JumpCloud
 JumpCloud is a cloud directory platform that enables centralized management of devices, including user authentication, policy enforcement, and remote administration.
+[Upl
+# JumpCloud Device Management
+
+A brief description of what this project does and who it's for
+# JumpCloud Device Management
+
+Youtube video - https://www.youtube.com/watch?v=jhIi4fuSDNw&list=PLJg5pUGFrvf6CH5g-MSExP4a3xsK6H3Cc&index=1
+
+Youtube - https://www.youtube.com/watch?v=jhIi4fuSDNw&list=PLJg5pUGFrvf6CH5g-MSExP4a3xsK6H3Cc&index=1
+## Overview
+JumpCloud is a cloud-based directory platform that provides identity and device management solutions. It enables organizations to centrally manage user identities, devices, and security policies across multiple operating systems, including Windows, macOS, and Linux, without the need for on-premise infrastructure.
+
+This repository is dedicated to using JumpCloud **only for device management purposes**. It will cover key aspects such as user management, user groups, device enrollment, command execution, and software management.
+
+## Table of Contents
+1. [Users](#users)
+2. [User Groups](#user-groups)
+3. [Devices](#devices)
+4. [Device Management](#device-management)
+5. [Commands](#commands)
+6. [Software Management](#software-management)
+
+---
+
+## Users
+JumpCloud allows organizations to create and manage users. Each user can be assigned to specific devices and groups with tailored access permissions.
+
+### Features:
+- Create and manage user accounts
+- Assign roles and permissions
+- Enable Multi-Factor Authentication (MFA)
+- Sync users with external identity providers (e.g., Google Workspace, Azure AD)
+
+## User Groups
+User groups in JumpCloud help organize users for streamlined access control and policy enforcement.
+
+### Features:
+- Group-based access control
+- Device and software policy assignment
+- Automated provisioning and de-provisioning
+
+## Devices
+JumpCloud supports the management of various devices, including Windows, macOS, and Linux machines.
+
+### Features:
+- Enroll devices into JumpCloud
+- Monitor device health and status
+- Secure endpoint management
+
+## Device Management
+JumpCloud provides tools for managing devices efficiently.
+
+### Features:
+- Remote device enrollment and provisioning
+- Security policy enforcement (e.g., password policies, encryption)
+- Device monitoring and compliance tracking
+- Remote lock and wipe capabilities
+
+## Commands
+Commands in JumpCloud allow administrators to execute scripts or commands on enrolled devices remotely.
+
+Github repo- https://github.com/TheJumpCloud/support
+
+Youtube video - https://www.youtube.com/watch?v=omlHvp6GsXo&list=PLJg5pUGFrvf6CH5g-MSExP4a3xsK6H3Cc&index=3
+### Features:
+- Run custom scripts (PowerShell, Bash, Python)
+- Automate administrative tasks
+- Schedule and deploy commands across multiple devices
+
+## Software Management
+JumpCloud enables software deployment and policy enforcement on managed devices.
+
+Youtube - https://www.youtube.com/watch?v=q8CjCLFXeQg
+### Features:
+- Install and update software remotely
+- Enforce application policies
+- Manage third-party software repositories
+
+---
+
+## Contribution
+If you’d like to contribute to this project, feel free to open issues or submit pull requests.
+
+## License
+This repository is licensed under [MIT License](LICENSE).
+
+## Contact
+For any questions or support, reach out to tools@systemconsultant.io.
+
+oading README.md…]()
 
 ## Endpoint Security
 ### ESET
@@ -105,6 +195,10 @@ If you'd like to contribute to this repository, feel free to submit pull request
 
 ## Contact
 For support or inquiries, reach out to tools@systemconsultant.io
+
+
+
+
 
 [README (1).md](https://github.com/user-attachments/files/19274122/README.1.md)
 
