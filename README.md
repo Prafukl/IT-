@@ -1,0 +1,111 @@
+<img width="1418" alt="image" src="https://github.com/user-attachments/assets/201e5755-0f75-4e87-84a5-13661ae7b7ae" />
+# IT Infrastructure Repository
+
+## Overview
+This repository serves as a comprehensive reference for managing IT infrastructure, including identity and access management (IAM), device management, endpoint security, operating systems, virtual desktop infrastructure (VDI), ticketing tools, IT asset management, procurement, and device data security. It provides best practices, configurations, and automation scripts to streamline IT operations.
+
+## Table of Contents
+1. [Identity & Access Management (IAM)](#identity--access-management-iam)
+   - Okta
+   - Active Directory (AD)
+2. [Device Management](#device-management)
+   - JumpCloud
+3. [Endpoint Security](#endpoint-security)
+   - ESET
+   - SentinelOne
+4. [Operating Systems](#operating-systems)
+   - Windows
+   - macOS
+   - Linux
+5. [Server Operating Systems](#server-operating-systems)
+   - Windows Server 2012
+   - Windows Server 2016
+6. [Virtual Desktop Infrastructure (VDI)](#virtual-desktop-infrastructure-vdi)
+   - Citrix
+7. [Ticketing Tools](#ticketing-tools)
+   - ServiceNow
+   - Zendesk
+   - Jira
+8. [IT Asset Management](#it-asset-management)
+   - Reftab
+   - Procurement and Lifecycle Management (Dell Premier)
+9. [Device Data Security](#device-data-security)
+   - BitRaser
+   - MDM (Intune)
+
+---
+
+## Identity & Access Management (IAM)
+### Okta
+Okta is a cloud-based identity provider offering Single Sign-On (SSO), Multi-Factor Authentication (MFA), and lifecycle management for users.
+
+### Active Directory (AD)
+Active Directory is Microsoft’s on-premises identity management service that handles authentication and authorization for Windows environments.
+
+## Device Management
+### JumpCloud
+JumpCloud is a cloud directory platform that enables centralized management of devices, including user authentication, policy enforcement, and remote administration.
+
+## Endpoint Security
+### ESET
+ESET provides endpoint protection against malware, ransomware, and phishing attacks.
+
+### SentinelOne
+SentinelOne is an AI-driven endpoint detection and response (EDR) solution that offers real-time threat detection and mitigation.
+
+## Operating Systems
+### Windows
+Covers configuration, automation, and troubleshooting of Windows OS for end-user computing.
+
+### macOS
+Includes security hardening, device management, and software deployment for macOS environments.
+
+### Linux
+Guidelines for managing and securing Linux systems in enterprise environments.
+
+## Server Operating Systems
+### Windows Server 2012
+Legacy server operating system used for hosting applications and directory services.
+
+### Windows Server 2016
+Modern server platform with enhanced security, virtualization, and cloud integration.
+
+## Virtual Desktop Infrastructure (VDI)
+### Citrix
+Citrix Virtual Apps and Desktops provide remote desktop solutions for secure access to enterprise applications.
+
+## Ticketing Tools
+### ServiceNow
+IT Service Management (ITSM) platform for handling incidents, changes, and service requests.
+
+### Zendesk
+Customer service and IT support ticketing solution with automation capabilities.
+
+### Jira
+Issue and project tracking tool commonly used for IT and software development teams.
+
+## IT Asset Management
+### Reftab
+Reftab is an asset management platform that helps track IT assets, including devices, software, and accessories.
+
+### Procurement and Lifecycle Management (Dell Premier)
+Dell Premier offers procurement and lifecycle management solutions for managing IT assets efficiently.
+
+## Device Data Security
+### BitRaser
+BitRaser is a data erasure and security solution that ensures secure disposal and compliance with data protection regulations.
+
+### MDM (Intune)
+Microsoft Intune is a cloud-based mobile device management (MDM) solution that enables organizations to manage and secure devices remotely.
+
+---
+
+## Contribution
+If you'd like to contribute to this repository, feel free to submit pull requests or raise issues.
+
+## Contact
+For support or inquiries, reach out to tools@systemconsultant.io
+
+[README (1).md](https://github.com/user-attachments/files/19274122/README.1.md)
+
+
